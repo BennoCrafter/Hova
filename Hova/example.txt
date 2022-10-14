@@ -1,3 +1,0 @@
-print "Hello World!"
-var variable = "That's a variable"
-print variable
