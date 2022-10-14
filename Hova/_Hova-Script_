@@ -1,0 +1,4 @@
+var x = "hallo "
+var y = "Benno!"
+var z = x + y
+write(z)
