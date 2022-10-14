@@ -1,0 +1,5 @@
+var x = 1
+while x < 20 do
+	write(x)
+	var x = x + 2
+end
