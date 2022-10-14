@@ -10,54 +10,54 @@ write("Hello World!")
 
 ## classic
 
-var x = 10
+    var x = 10
 
-var text = "Hello, World 123"
+    var text = "Hello, World 123"
 
 ## calculation 
 
-var add = 1+10
+    var add = 1+10
 
-var sub = 10 -7
+    var sub = 10 -7
 
-var div = 10/2
+    var div = 10/2
+ 
+    var mul = 2*6
 
-var mul = 2*6
-
-var pow = 8^2
+    var pow = 8^2
 
 ## connecting variables 
 
-var t = "Hello "
+    var t = "Hello "
 
-var h = "User!"
+    var h = "User!"
 
-var o = t + h
+    var o = t + h
 
-# calculate two or more variables 
+## calculate two or more variables 
 
-var e = 6 
+    var e = 6 
 
-var w = 4
+    var w = 4
 
-var s = e + w
+    var s = e + w
 
-# writing all varibles
+## writing all variables
 
-write(x)
+    write(x)
 
-write(text)
+    write(text)
 
-write(add)
+    write(add)
 
-write(sub)
+    write(sub)
+  
+    write(div)
 
-write(div)
+    write(mul)
 
-write(mul)
+    write(pow)
 
-write(pow)
+    write(o)
 
-write(o)
-
-write(s)
+    write(s)
