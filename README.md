@@ -6,12 +6,18 @@
 - Declare variables
 - Print Strings
 - Print Variables
-- Comming Soon
+- Connect Variables
+- Calculate Variables
+- for loops
+- while loops
+- inputs
+- functions
+- if conditions
 
-## Example
-print "Hello World!"
-var variable = "That's a variable"
-print variable
+
+## Examples
+
+Examples you will get in Documentation.md
 
 ## Coding
-To test the coding language, just replace the scriptfilename with your own script.txt!
+To test the coding language, just run start.py!
