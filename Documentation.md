@@ -61,3 +61,13 @@ write("Hello World!")
     write(o)
 
     write(s)
+
+# For loops
+
+## Usage
+
+    for i=0 to 10 then
+
+        write(i)
+
+    end
