@@ -17,7 +17,7 @@
 
 ## Examples
 
-Examples you will get in Documentation.md or on https://github.com/BennoCrafter/Hova/wiki
+Examples you will get in https://github.com/BennoCrafter/Hova/Documentation.md or on https://github.com/BennoCrafter/Hova/wiki
 
 ## Coding
 To test the coding language, just run start.py!
