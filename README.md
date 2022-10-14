@@ -17,10 +17,10 @@
 
 ## Examples
 
-Examples you will get here:  https://github.com/BennoCrafter/Hova/Hova/exampels
+Examples you will get here:  https://github.com/BennoCrafter/Hova/Hova/examples
 
 ## Documentation
-Here is the Documentation: https://github.com/BennoCrafter/Hova/Documentation
+Here is the Documentation: https://github.com/BennoCrafter/Hova/Documentation.md
 
 ## Wiki
 
