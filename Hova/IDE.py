@@ -2,7 +2,7 @@
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 from lexer import Lexer
-from code._parser import Parser
+from _parser import Parser
 from interpreter import Interpreter, Context, global_symbol_table
 
 
